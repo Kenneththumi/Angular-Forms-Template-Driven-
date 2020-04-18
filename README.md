@@ -1,6 +1,7 @@
 # Angular Forms: Template Driven Approach
 
 The project explores creation of forms using Template Driven Approach.
+In this approach Angular infers the Object from the DOM.
 It is based on Maximilian Schwarzmüller's Angular Tutorial on Udemy.
 
 ## Installation
